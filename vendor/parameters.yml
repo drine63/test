@@ -1,0 +1,5 @@
+dbname: symfony
+dbhost: localhost
+dbuser: root
+dbpass: ****
+
